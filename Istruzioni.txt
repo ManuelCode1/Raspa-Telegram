@@ -1,0 +1,23 @@
+Istruzioni raspa:
+
+Per prima cosa, aprire il .py con notepad++ e modificare l'api hash, l'api id che prenderete da https://my.telegram.org/ 
+inserite il numero di telefono con il prefisso davanti es. +1xxxxxxxxxxxxx.
+
+Aprite il cmd e scrivete: 
+cd Desktop
+cd Raspa
+python BotRaspa.py
+
+Una volta fatti questi comandi, se avete inserito bene le prime cose dell'api e il numero, vi chiederà
+un codice arrivato sull'account telegram che vorrete usare e voi mettetelo la.
+
+Poi vi chiederà i gruppi da quali prendere i membri (puoi sceglierne solo uno alla volta) e poi vi chiederà il 
+gruppo dove aggiungerli, per scegliere il gruppo basta scrivere il numero accanto al gruppo es. 0 1 2 3
+
+Una volta fatto, vi chiederà di aggiungerli per username o id, voi mettete id cioè 2
+
+poi vi chiederà il tempo di aggiunta (consigliabile 40 secondi, sennò il voip va in floodwait).
+Ecco fatto, divertiti.
+
+#Istruzioni by @ManuelCode
+#Video guida -> https://www.youtube.com/c/ManuelCode
